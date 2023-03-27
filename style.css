@@ -7,7 +7,7 @@
 }
 
 body {
-	background: linear-gradient(#8400ff 0%, #ff8c8c 40%) no-repeat;
+	background: linear-gradient(#8400ff 0%, #ff8c8c 40%);
 	min-height: 100vh;
 	max-height: 100vh;
 	overflow-x: hidden;
@@ -24,7 +24,6 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	z-index: 100;
-	background: linear-gradient(#8400ff 0%, #ff8c8c 40%) no-repeat;
 }
 .logo {
 	color: #fff;
@@ -44,7 +43,6 @@ header {
 	background: #00a3b9;
 }
 .parallax {
-	background: linear-gradient(#8400ff 0%, #ff8c8c 40%) no-repeat;
 	position:relative;
 	display: flex;
 	justify-content: center;
@@ -53,7 +51,6 @@ header {
 }
 
 .parallax img {
-	background: linear-gradient(#8400ff 0%, #ff8c8c 40%) no-repeat;
 	position: absolute;
 	top: 0;
 	left: 0;
