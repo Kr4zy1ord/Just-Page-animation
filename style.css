@@ -23,6 +23,7 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	z-index: 100;
+	background: linear-gradient(#8400ff 0%, #ff8c8c 40%) no-repeat;
 }
 .logo {
 	color: #fff;
